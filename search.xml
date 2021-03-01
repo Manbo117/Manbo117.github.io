@@ -17,62 +17,6 @@
     
     
     <entry>
-      <title>标签外挂-图表样式</title>
-      <link href="posts/12db40b9/"/>
-      <url>posts/12db40b9/</url>
-      
-        <content type="html"><![CDATA[<div class="mermaid">pie    title Key elements in Product X    &quot;Calcium&quot; : 42.96    &quot;Potassium&quot; : 50.05    &quot;Magnesium&quot; : 10.01    &quot;Iron&quot; :  5</div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 标签外挂 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签1 </tag>
-            
-            <tag> 标签2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签外挂-github内容样式</title>
-      <link href="posts/e33eddd3/"/>
-      <url>posts/e33eddd3/</url>
-      
-        <content type="html"><![CDATA[<p>用户信息卡片<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a> |<br>| – | – |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a> |</p><p>仓库信息卡片<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=vue&show_owner=true"/></a> |<br>| – | – |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=buefy&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=solarized-light&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=onedark&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=solarized-dark&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=algolia&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=calm&show_owner=true"/></a> |</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 标签外挂 </category>
-          
-          <category> github </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 标签1 </tag>
-            
-            <tag> 标签2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签外挂-图库样式</title>
       <link href="posts/68217b3b/"/>
       <url>posts/68217b3b/</url>
@@ -127,16 +71,18 @@
     
     
     <entry>
-      <title>标签外挂-链接卡片样式</title>
-      <link href="posts/9b96d673/"/>
-      <url>posts/9b96d673/</url>
+      <title>标签外挂-github内容样式</title>
+      <link href="posts/e33eddd3/"/>
+      <url>posts/e33eddd3/</url>
       
-        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Akilarlxh/akilarlxh.github.io/img/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div>]]></content>
+        <content type="html"><![CDATA[<p>用户信息卡片<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a> |<br>| – | – |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a> |</p><p>仓库信息卡片<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=vue&show_owner=true"/></a> |<br>| – | – |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=buefy&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=solarized-light&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=onedark&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=solarized-dark&show_owner=true"/></a> |<br>| <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=algolia&show_owner=true"/></a> | <a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/volantis-x/hexo-theme-volantis"><img src= "/img/loading.gif" data-lazy-src="https://github-readme-stats.vercel.app/api/pin/?username=volantis-x&repo=hexo-theme-volantis&theme=calm&show_owner=true"/></a> |</p>]]></content>
       
       
       <categories>
           
           <category> 标签外挂 </category>
+          
+          <category> github </category>
           
       </categories>
       
@@ -181,11 +127,11 @@
     
     
     <entry>
-      <title>标签外挂-页签切换样式</title>
-      <link href="posts/4a138a4b/"/>
-      <url>posts/4a138a4b/</url>
+      <title>标签外挂-图表样式</title>
+      <link href="posts/12db40b9/"/>
+      <url>posts/12db40b9/</url>
       
-        <content type="html"><![CDATA[<div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">test1 1</button></li><li class="tab"><button type="button" data-href="#test1-2">test1 2</button></li><li class="tab"><button type="button" data-href="#test1-3">test1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><strong>This is Tab 3.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><p>自定义页签和icon</p><div class="tabs" id="test4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test4-1">第一個Tab</button></li><li class="tab"><button type="button" data-href="#test4-2"><i class="fab fa-apple-pay" style="text-align: center;"></i></button></li><li class="tab"><button type="button" data-href="#test4-3"><i class="fas fa-bomb"></i>炸彈</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test4-1"><p><strong>tab名字為第一個Tab</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-2"><p><strong>只有圖標 沒有Tab名字</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="mermaid">pie    title Key elements in Product X    &quot;Calcium&quot; : 42.96    &quot;Potassium&quot; : 50.05    &quot;Magnesium&quot; : 10.01    &quot;Iron&quot; :  5</div>]]></content>
       
       
       <categories>
@@ -262,11 +208,65 @@
     
     
     <entry>
+      <title>标签外挂-链接卡片样式</title>
+      <link href="posts/9b96d673/"/>
+      <url>posts/9b96d673/</url>
+      
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Akilarlxh/akilarlxh.github.io/img/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 标签外挂 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标签外挂-便签样式</title>
       <link href="posts/d87f7e0c/"/>
       <url>posts/d87f7e0c/</url>
       
         <content type="html"><![CDATA[<p>这是便签</p><div class="note [color] [icon] [style] flat"><p>Any content (support inline tags too.io).</p></div><p>复杂一点的便签</p><div class="note icon simple"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon simple"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon simple"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon simple"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon simple"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon simple"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon simple"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><p>没有前面色块的复杂便签</p><div class="note icon modern"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon modern"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon modern"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon modern"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon modern"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon modern"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon modern"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><p>有背景色的复杂便签</p><div class="note icon flat"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon flat"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon flat"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon flat"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon flat"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon flat"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><p>无背景色的标签</p><div class="note icon disabled"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon disabled"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon disabled"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon disabled"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon disabled"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon disabled"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon disabled"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><p>没图标有背景的标签</p><div class="note no-icon flat"><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue no-icon flat"><p>2021年快到了….</p></div><div class="note pink no-icon flat"><p>小心開車 安全至上</p></div><div class="note red no-icon flat"><p>這是三片呢？還是四片？</p></div><div class="note orange no-icon flat"><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple no-icon flat"><p>剪刀石頭布</p></div><div class="note green no-icon flat"><p>前端最討厭的瀏覽器</p></div><p>带上标的便签</p><div class="tip "><p>默认情况</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义font awesome图标</p></div><p>–以下是会动的标签<br>效果1 On DOM load（当页面加载时显示动画）</p><div class="tip warning faa-horizontal animated"><p>warning</p></div><div class="tip ban faa-flash animated"><p>ban</p></div><p>效果2调整动画速度</p><div class="tip warning faa-horizontal animated faa-fast"><p>warning</p></div><div class="tip ban faa-flash animated faa-slow"><p>ban</p></div><p>效果3On hover（当鼠标悬停时显示动画）</p><div class="tip warning faa-horizontal animated-hover"><p>warning</p></div><div class="tip ban faa-flash animated-hover"><p>ban</p></div><p>效果4On parent hover（当鼠标悬停在父级元素时显示动画）</p><div class="tip warning faa-parent animated-hover"><p class="faa-horizontal">warning</p></div><div class="tip ban faa-parent animated-hover"><p class="faa-flash">ban</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 标签外挂 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签外挂-页签切换样式</title>
+      <link href="posts/4a138a4b/"/>
+      <url>posts/4a138a4b/</url>
+      
+        <content type="html"><![CDATA[<div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">test1 1</button></li><li class="tab"><button type="button" data-href="#test1-2">test1 2</button></li><li class="tab"><button type="button" data-href="#test1-3">test1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><strong>This is Tab 3.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><p>自定义页签和icon</p><div class="tabs" id="test4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test4-1">第一個Tab</button></li><li class="tab"><button type="button" data-href="#test4-2"><i class="fab fa-apple-pay" style="text-align: center;"></i></button></li><li class="tab"><button type="button" data-href="#test4-3"><i class="fas fa-bomb"></i>炸彈</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test4-1"><p><strong>tab名字為第一個Tab</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-2"><p><strong>只有圖標 沒有Tab名字</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
       
       
       <categories>
