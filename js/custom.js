@@ -1,0 +1,1 @@
+function AddFavorite(a,e){try{window.external.addFavorite(e,a)}catch(t){try{window.sidebar.addPanel(a,e,"")}catch(a){alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请进入新网站后使用Ctrl+D进行添加")}}}var full_page=document.getElementsByClassName("full_page");0!=full_page.length&&(full_page[0].style.background="transparent");
